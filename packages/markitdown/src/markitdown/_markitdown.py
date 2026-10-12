@@ -49,7 +49,6 @@ from ._exceptions import (
     FailedConversionAttempt,
 )
 
-
 # Lower priority values are tried first.
 PRIORITY_SPECIFIC_FILE_FORMAT = (
     0.0  # e.g., .docx, .pdf, .xlsx, Or specific pages, e.g., wikipedia
